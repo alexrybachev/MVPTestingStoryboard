@@ -13,6 +13,7 @@
 		28770D73273300F200D44913 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28770D71273300F200D44913 /* Main.storyboard */; };
 		28770D75273300F400D44913 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28770D74273300F400D44913 /* Assets.xcassets */; };
 		28770D78273300F400D44913 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28770D76273300F400D44913 /* LaunchScreen.storyboard */; };
+		28770D802733038300D44913 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28770D7F2733038300D44913 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		28770D74273300F400D44913 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		28770D77273300F400D44913 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28770D79273300F400D44913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		28770D7F2733038300D44913 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				28770D6B273300F200D44913 /* AppDelegate.swift */,
 				28770D6D273300F200D44913 /* SceneDelegate.swift */,
 				28770D6F273300F200D44913 /* GreetingViewController.swift */,
+				28770D7F2733038300D44913 /* Model.swift */,
 				28770D71273300F200D44913 /* Main.storyboard */,
 				28770D74273300F400D44913 /* Assets.xcassets */,
 				28770D76273300F400D44913 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				28770D70273300F200D44913 /* GreetingViewController.swift in Sources */,
 				28770D6C273300F200D44913 /* AppDelegate.swift in Sources */,
 				28770D6E273300F200D44913 /* SceneDelegate.swift in Sources */,
+				28770D802733038300D44913 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
