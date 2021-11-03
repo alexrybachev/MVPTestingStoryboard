@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  GreetingViewController.swift
 //  MVPTestingStoryboard
 //
 //  Created by Aleksandr Rybachev on 03.11.2021.
